@@ -6,7 +6,7 @@ Nous disposons d'une image `image1.png` que nous souhaitons compresser au format
 
 D'une part, nous cherchons à comprendre pourquoi et comment le format JPEG fonctionne. Ensuite, nous voulons représenter le rôle des mathématiques dans ce format avec l'application de la DCT. Le fichier `GénéralitéDCT.ipynb` permet ainsi de comprendre comment fonctionne la DCT.
 
-Enfin, nous souhaitons tenter d'implémenter chacune des étapes nous-mêmes en Python afin d'illustrer ces concepts à travers des applications concrètes. Le fichier "Méthodologie.ipynb" regroupe ainsi les fonctions que nous avons utilisées pour compresser notre image.
+Enfin, nous souhaitons tenter d'implémenter chacune des étapes nous-mêmes en Python afin d'illustrer ces concepts à travers des applications concrètes. Le fichier `Méthodologie.ipynb` regroupe ainsi les fonctions que nous avons utilisées pour compresser notre image.
 
 Pour accéder aux fichiers sur votre machine locale, créez un dossier et effectuez : `git clone https://github.com/AndriamMiora/Projet-Fourier.git`
 
