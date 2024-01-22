@@ -2,7 +2,7 @@
 
 La compression d'images constitue un enjeu majeur dans le domaine du stockage et de la transmission de données visuelles. Le format JPEG, basé sur la Transformée Cosinus Discrète (DCT), représente une solution prédominante pour compresser des images 2D. Ce répertoire regroupe les fichiers importants de notre projet sur la DCT et la compression d'image JPEG. Nos objectifs lors de la réalisation de ce projet sont doubles.
 
-Nous disposons d'une image "Image1.png" que nous souhaitons compresser au format JPEG.
+Nous disposons d'une image `image1.png` que nous souhaitons compresser au format JPEG.
 
 D'une part, nous cherchons à comprendre pourquoi et comment le format JPEG fonctionne. Ensuite, nous voulons représenter le rôle des mathématiques dans ce format avec l'application de la DCT. Le fichier `GénéralitéDCT.ipynb` permet ainsi de comprendre comment fonctionne la DCT.
 
