@@ -8,7 +8,9 @@ D'une part, nous cherchons à comprendre pourquoi et comment le format JPEG fonc
 
 Enfin, nous souhaitons tenter d'implémenter chacune des étapes nous-mêmes en Python afin d'illustrer ces concepts à travers des applications concrètes. Le fichier `Méthodologie.ipynb` regroupe ainsi les fonctions que nous avons utilisées pour compresser notre image.
 
+
 Pour accéder aux fichiers sur votre machine locale, créez un dossier et effectuez : `git clone https://github.com/AndriamMiora/Projet-Fourier.git`
 
 Ensuite, ouvrez les deux notebooks `GénéralitéDCT.ipynb` et `Méthodologie.ipynb`, en modifiant `image_path` par le chemin où `image1.png` a été stocké en local. Il ne reste ensuite plus qu'à exécuter toutes les cellules et à faire varier les différents curseurs.
 
+**Contributeurs du projet :** Andriambololo-Nivo Miora, Andrianarivo Koloina Ashley et Sastre Cloé
