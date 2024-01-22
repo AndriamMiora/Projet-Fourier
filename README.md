@@ -13,4 +13,4 @@ Pour accéder aux fichiers sur votre machine locale, créez un dossier et effect
 
 Ensuite, ouvrez les deux notebooks `GénéralitéDCT.ipynb` et `Méthodologie.ipynb`, en modifiant `image_path` par le chemin où `image1.png` a été stocké en local. Il ne reste ensuite plus qu'à exécuter toutes les cellules et à faire varier les différents curseurs.
 
-**Contributeurs :** Andriambololo-Nivo Miora, Andrianarivo Koloina Ashley et Sastre Cloé
+**Contributeurs du projet :** Andriambololo-Nivo Miora, Andrianarivo Koloina Ashley et Sastre Cloé
